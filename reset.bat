@@ -5,6 +5,10 @@
 :: PowerShell/Bash script to delete and run the migrations 
 :: and let you know when to run the SQL Query
 
+:: -------------------------------------------------------
+:: -- Replace all <Variables> with your own information --
+:: -------------------------------------------------------
+
 :: Use the below to run this (*** As long as it is named "reset.bat" ***)
 
 :: To run in bash terminal use:
