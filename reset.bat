@@ -33,7 +33,7 @@ powershell -Command "Remove-Item -Path ./<lastNameLowerCase?>Chinook.db"
 
 
 
-:: Use first letter Upper case last name below
+:: Use first letter Upper case last name below or whatever you want the migration to be called
 dotnet ef migrations add <LastNameFirstLetterCapitalized>InitialMigration
 
 :: example:
